@@ -1,0 +1,8 @@
+application:name/version/starting-up
+    {1} v{2} is starting up...
+application:name/version/started
+    {1} initialised
+application:name/version/shutting-down
+    {1} shutting down
+invalid:value/column/table
+    Value {1} is invalid for {3}.{2}
