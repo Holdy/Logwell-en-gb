@@ -1,9 +1,15 @@
 application:name/version/starting-up
-    {1} v{2} is starting up...
+    {name} v{version} is starting up...
+
 application:name/version/started
-    {1} initialised
+    {name} initialised
+
 application:name/version/shutting-down
-    {1} shutting down
+    {name} shutting down
+
 invalid:value/column/table
-    Value {1} is invalid for {3}.{2}
-gi
+    Value [{value}] is invalid for {table}.{column}
+
+unexpected:file
+    Unexpected file present - [{file}]
+
